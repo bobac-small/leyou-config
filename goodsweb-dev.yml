@@ -11,7 +11,7 @@ spring:
     password: leyou
     virtual-host: /leyou
   redis:
-    host: 127.0.0.1
+    host: 10.0.0.107
 eureka:
   client:
     service-url:

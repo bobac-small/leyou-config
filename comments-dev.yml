@@ -22,7 +22,7 @@ spring:
     password: leyou
     host: 10.0.0.107
   redis:
-    host: 127.0.0.1
+    host: 10.0.0.107
   jackson:
     default-property-inclusion: non_null # 配置json处理时忽略空值
 eureka:

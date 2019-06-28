@@ -4,7 +4,7 @@ spring:
   application:
     name: cart-service
   redis:
-    host: 127.0.0.1
+    host: 10.0.0.107
   rabbitmq:
     virtual-host: /leyou
     username: /leyou

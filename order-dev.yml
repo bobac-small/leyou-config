@@ -19,7 +19,7 @@ spring:
       queue: leyou.order.delay.queue
     publisher-confirms: true
   redis:
-    host: 127.0.0.1
+    host: 10.0.0.107
 eureka:
   client:
     service-url:
